@@ -1,0 +1,12 @@
+# Pehle sab kuch ignore karo
+*
+
+# Lekin directories (folders) ko ignore mat karo
+!*/
+
+# .cpp files ko ignore MAT karo (inka exception banao)
+!*.cpp
+
+# Agar koi README ya .gitignore file hai toh unhe bhi allow karo
+!.gitignore
+!README.md
